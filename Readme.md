@@ -23,5 +23,7 @@ Arbitrage:-
 a. Spatial Arbitrage:- In this type of arbitrage traders will buy and sell assests between two different markets to earn some profits out of it.
 
 b. Triangular Arbitrage:- In this type of arbitrage traders will buy and sell 3 assets to form  a triangle and earn some profits out of it.
+
 c. Statistical Arbitrage:- In this type of arbitrage traders will buy and sell assets based on the statistics of the assets like past, present and future performance of the assets.
+
 d. Temporal Arbitrage:- In this type of arbitrage traders will buy and sell the assets based on the time like traders will buy the assets and will sell the assets after some specific period of time.
