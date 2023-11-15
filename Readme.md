@@ -1,4 +1,4 @@
-This is a project about flashloan-arbitrage in which two types of arbitrage which is as follows:- 
+This is a project all about flashloan-arbitrage in which two types of arbitrage which is as follows:- 
 1. Spatial Arbitrage
 2. Triangular Arbitrage
 
@@ -27,3 +27,5 @@ Arbitrage:-
     c. Statistical Arbitrage:- In this type of arbitrage traders will buy and sell assets based on the statistics of the assets like past, present and future performance of the assets.
 
     d. Temporal Arbitrage:- In this type of arbitrage traders will buy and sell the assets based on the time like traders will buy the assets and will sell the assets after some specific period of time.
+
+In this project I am using ethereum and bsc mainnet account addresses by using hardhat's impersonate accounts concepts where we can use mainnet's account to do any operation to our smart contract right from deploying smart contract to transfer any tokens, ethers to some destination addresses but on a temporary basis. In actual it will not do any realtime operation on mainnet but it will fork the mainnet blockchain state for testing purposes.
